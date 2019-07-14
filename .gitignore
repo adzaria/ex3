@@ -1,0 +1,10 @@
+
+#ignoring files from the front
+front/node_modules
+front/build
+
+#ignoring files from the back
+back/node_modules
+
+# bad practice : back/config.js should be .gitignored
+# back/config.js
